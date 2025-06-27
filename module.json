@@ -50,9 +50,9 @@
   ],
   "languages": [
     {
-      "lang": "zh-CN",
+      "lang": "cn",
       "name": "中文",
-      "path": "lang/zh-CN.json"
+      "path": "lang/cn.json"
     }
   ],
   "manifest": "https://raw.githubusercontent.com/FrontBlood/DaggerHeart-FVTT-zh-ver-Cards-Module/main/module.json",
