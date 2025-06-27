@@ -1,7 +1,7 @@
 {
   "id": "daggerheart-cards-zh",
-  "title": "daggerheart中文卡牌资源",
-  "description": "整合种族、职业、社群、领域的中文卡牌资源，包括图片与Compendium数据。",
+  "title": "Daggerheart 中文卡牌资源包",
+  "description": "整合种族、职业、社群、领域的中文卡牌资源，包括图片与 Compendium 数据。",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
@@ -12,44 +12,12 @@
       "name": "自动生成"
     }
   ],
-  "packs": [
+  "packs": [],
+  "languages": [
     {
-      "name": "ancestry",
-      "label": "种族",
-      "path": "packs/ancestry.db",
-      "type": "Item",
-      "system": "daggerheart"
-    },
-    {
-      "name": "community",
-      "label": "社群",
-      "path": "packs/community.db",
-      "type": "Item",
-      "system": "daggerheart"
-    },
-    {
-      "name": "domain",
-      "label": "领域",
-      "path": "packs/domain.db",
-      "type": "Item",
-      "system": "daggerheart"
-    },
-    {
-      "name": "class",
-      "label": "职业（主）",
-      "path": "packs/class.db",
-      "type": "Item",
-      "system": "daggerheart"
-    },
-    {
-      "name": "subclass",
-      "label": "职业（子）",
-      "path": "packs/subclass.db",
-      "type": "Item",
-      "system": "daggerheart"
+      "lang": "zh-CN",
+      "name": "中文",
+      "path": "lang/zh-CN.json"
     }
-  ],
-  "manifest": "https://raw.githubusercontent.com/FrontBlood/DaggerHeart-FVTT-zh-ver-Cards-Module/main/module.json",
-  "download": "https://github.com/FrontBlood/DaggerHeart-FVTT-zh-ver-Cards-Module/releases/download/v1.0.0/daggerheart-cards-zh.zip",
-  "url": "https://github.com/FrontBlood/DaggerHeart-FVTT-zh-ver-Cards-Module"
+  ]
 }
