@@ -1,8 +1,8 @@
 {
   "id": "daggerheart-cards-zh",
   "title": "Daggerheart 中文卡牌资源包",
-  "description": "整合种族、职业、社群、领域的中文卡牌资源，包括图片与 Compendium 数据。",
-  "version": "1.0.0",
+  "description": "整合种族、职业、社群、领域的中文卡牌资源，包括图片与 汉化数据。",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "11",
     "verified": "13"
@@ -20,4 +20,8 @@
       "path": "lang/zh-CN.json"
     }
   ]
+  "manifest": "https://raw.githubusercontent.com/FrontBlood/DaggerHeart-FVTT-zh-ver-Cards-Module/main/module.json",
+  "download": "https://github.com/FrontBlood/DaggerHeart-FVTT-zh-ver-Cards-Module/releases/download/v1.0.1/sourcecode.zip",
+  "url": "https://github.com/FrontBlood/DaggerHeart-FVTT-zh-ver-Cards-Module"
+}
 }
