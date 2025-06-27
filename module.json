@@ -55,7 +55,7 @@
       "path": "lang/cn.json"
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/FrontBlood/DaggerHeart-FVTT-zh-ver-Cards-Module/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/FrontBlood/daggerheart-cards-zh/main/module.json",
   "download": "https://github.com/FrontBlood/daggerheart-cards-zh/archive/refs/heads/main.zip",
   "url": "https://github.com/FrontBlood/DaggerHeart-FVTT-zh-ver-Cards-Module"
 }
