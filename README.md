@@ -1,4 +1,5 @@
-FVTT的匕首之心，卡牌资源整合+汉化
+FVTT的匕首之心，卡牌资源的自用整合+汉化
+
 基于featureJosh的系统：
 https://github.com/featureJosh/daggerheart-swb
 
