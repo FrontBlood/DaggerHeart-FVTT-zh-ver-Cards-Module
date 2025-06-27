@@ -4,7 +4,7 @@ FVTT的匕首之心，卡牌资源的自用整合+汉化 Module
 https://github.com/featureJosh/daggerheart-swb
 
 清单地址如下：
-https://raw.githubusercontent.com/FrontBlood/DaggerHeart-FVTT-zh-ver-Cards-Module/main/module.json
+https://raw.githubusercontent.com/FrontBlood/daggerheart-cards-zh/main/module.json
 
 素材取自：
 https://lcnw6r5edbf2.feishu.cn/wiki/NwsAwL4JpiFsx2kXhCwc5FzWnsh
