@@ -1,3 +1,7 @@
+FVTT的匕首之心，卡牌资源整合+汉化
+基于featureJosh的系统：
+https://github.com/featureJosh/daggerheart-swb
+
 清单地址如下：
 https://raw.githubusercontent.com/FrontBlood/DaggerHeart-FVTT-zh-ver-Cards-Module/main/module.json
 
